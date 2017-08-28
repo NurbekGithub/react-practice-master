@@ -7,7 +7,7 @@ export default class ContactPage extends React.Component {
     render() {
         return (
             <div>
-                <div className="alert alert-warning">Hi from Contacts</div>
+                <div className='alert alert-warning'>Hi from Contacts</div>
             </div>
         );
     }
